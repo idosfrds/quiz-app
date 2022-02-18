@@ -1,2 +1,2 @@
 # quiz-app
-simple quiz HTML
+simple quiz using HTML, CSS & Javascript
